@@ -2,7 +2,10 @@
 
 <div align="center">   
 
-[![GitHub Streak](https://github-readme-streak-stats-1whf6h81i-syde2.vercel.app?user=Syde2&theme=nord&locale=fr&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-1whf6h81i-syde2.vercel.app?user=Syde2&theme=nord&locale=fr&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://github-readme-streak-stats-1whf6h81i-syde2.vercel.app/demo/)
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1whf6h81i-syde2.vercel.app?user=Syde2&theme=nord&locale=fr&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </div>
 
