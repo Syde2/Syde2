@@ -2,9 +2,12 @@
 
 <div align="center">   
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nfsxw3h6v-syde2.vercel.app/?user=syde2" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Syde2)](https://git.io/streak-stats)
 
-<img src="https://github-readme-streak-stats-nfsxw3h6v-syde2.vercel.app/?user=syde2" width=300 height=200>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-35p04uf1t-syde2.vercel.app?user=Syde2" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-streak-stats-35p04uf1t-syde2.vercel.app/?user=Syde2" width=300 height=200>
 
 </div>
 
